@@ -29,4 +29,14 @@ button{
 }
 
 /* 4. Child Selectors */
+
+
+.btnContainer button{
+    color:blue;
+    background-color: #fff;
+    border: 1px solid blue;
+}
+
 /* 5. Pseudo Selectors */
+
+

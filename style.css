@@ -1,0 +1,32 @@
+h1{
+    text-decoration: underline;
+}
+
+
+/* Selectors ----------------------------------------- */
+/* 1. By TagName */
+
+button{
+    background-color: blue;
+    color:white
+}
+
+/* 2. By ClassName ( arribute on element ) Note: use dot . before className Selector */
+
+.btn{
+    background-color: aquamarine;
+    color:black;
+}
+
+/* 3. By ID ( arribute on element ) Note: use hash # before className Selector */
+
+#input{
+    /* border-width: 2px;
+    border-color: red;
+    border-style: dashed; */
+    border: none;
+    border-bottom: 1px solid red;
+}
+
+/* 4. Child Selectors */
+/* 5. Pseudo Selectors */

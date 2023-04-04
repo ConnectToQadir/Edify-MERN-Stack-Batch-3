@@ -38,5 +38,25 @@ button{
 }
 
 /* 5. Pseudo Selectors */
+/* .parent .child:first-child{
+    height: 20px;
+    border: 1px solid red;
+    background-color: blue;
+    color:#fff;
+} */
+/* .parent .child:last-child{
+    height: 20px;
+    border: 1px solid red;
+    background-color: blue;
+    color:#fff;
+} */
+/* 
+.parent .child:nth-child(2){
+    height: 20px;
+    border: 1px solid red;
+    background-color: blue;
+    color:#fff;
+} */
+
 
 
